@@ -1,3 +1,5 @@
+![plot](./print.jpg)
+
 # 03:03 Configurando o ambiente
 
 Crie uma pasta para o projeto
